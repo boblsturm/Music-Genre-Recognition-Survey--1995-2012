@@ -1,4 +1,5 @@
 This data accompanies the reference 
+
 @inproceedings{Sturm2014d,
 	author = {B. L. Sturm},
 	booktitle = {Adaptive Multimedia Retrieval: Semantics, Context, and Adaptation},
